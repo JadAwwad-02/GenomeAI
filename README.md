@@ -1,28 +1,19 @@
-# GenomeAI — DNA Sequence Analyzer
+# GenomeAI
 
-## What it does
-Analyzes any DNA sequence and calculates:
-- GC content percentage (Guanine + Cytosine)
-- AT content percentage (Adenine + Thymine)
+A portfolio documenting my journey — Jad Awwad, a biotechnologist 
+stepping into the world of programming and AI.
 
-## Why it matters
-GC content is a fundamental measurement in genomics.
-High GC content means more stable DNA.
-Different organisms have different GC signatures.
+## The Vision
+I am building tools that combine AI and coding concepts with 
+biology and bioinformatics — starting from simple scripts and 
+growing into real-life solutions for drug discovery and genomics.
 
-## How to run it
-```python
-py Sequence_analyzer.py
-```
-Then type any DNA sequence using A, T, G, C
+## The Journey
+Each folder in this repository is a project I built myself.
+From a simple DNA analyzer to a full bioinformatics platform.
 
-## Example output
-```
-Sequence length: 16
-GC content: 50.00%
-AT content: 50.00%
-```
+## Tools Built So Far
+- 01_sequence_analyzer — DNA sequence analysis (GC/AT content)
 
-## Built with
-- Python 3.14
-- BioPython
+## Built by
+Jad Awwad — Biotechnology Graduate & AI Engineer in progress
