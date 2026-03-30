@@ -14,6 +14,7 @@ From a simple DNA analyzer to a full bioinformatics platform.
 
 ## Tools Built So Far
 - 01_sequence_analyzer — DNA sequence analysis (GC/AT content)
+- 02_DNA_Data_Storage — Data Encoder into DNA sequence
 
 ## Built by
 Jad Awwad — Biotechnology Graduate & AI Engineer in progress
