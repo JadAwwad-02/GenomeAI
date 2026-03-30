@@ -1,4 +1,4 @@
-# GenomeAI — DNA Sequence Analyzer
+# 01 — DNA Sequence Analyzer
 
 ## What it does
 Analyzes any DNA sequence and calculates:
