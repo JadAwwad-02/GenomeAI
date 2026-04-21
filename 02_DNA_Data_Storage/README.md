@@ -53,7 +53,14 @@ This exercise helped me practice:
 
 This is a simplified computational model created for learning purposes. It does not represent real laboratory DNA synthesis or biological storage systems.
 
+## How to Run
+
+```bash
+py dna_storage.py
+```
+
+Follow the prompts to encode text to DNA or decode DNA back to text.
+
 ## Author
 
-Nurtal Biotechnology  
 Jad Awwad
